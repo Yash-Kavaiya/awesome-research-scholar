@@ -9,3 +9,9 @@ https://github.com/AIScientists-Dev/academic-humanizer
 https://github.com/qhy991/Scientific-Figure-Design
 
 https://github.com/zhoy0409-debug/polish-sci-figures
+
+https://github.com/letitbk/claude-academic-setup
+
+https://github.com/letitbk/journal-style
+
+https://github.com/letitbk/qualtrics-skills
